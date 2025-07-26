@@ -1,4 +1,4 @@
-﻿# Beyond Pairwise Graphs: Hypergraph Representation of scRNA-seq Data for Modeling Cell–Cell Structure with Gumbel-Softmax
+﻿# scHGCL: Hypergraph-Based Contrastive Learning for Robust Gene Expression Recovery in scRNA-seq Data
 
 This repository implements a simple pipeline for **imputing missing values in single-cell RNA-seq (scRNA-seq) data** using a **hypergraph** constructed via a Gumbel-Softmax stratage.
 
